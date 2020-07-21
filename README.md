@@ -14,18 +14,20 @@ Assessment is worth 25% of the whole course, 5 marks per lab. Each lab exercise 
 
 Each week a labs submission will be due on the following weeks:
 
-| Lab Submissions | Due dates |
-| --------------- | --------- |
-| Lab 1           | Week 1    |
-| Lab 2           | Week 2    |
-| Lab 3           | Week 3    |
-| Lab 4           | Week 4    |
-| Lab 5           | Week 5    |
-| Lab 6           | Week 6    |
-| Lab 7           | Week 7    |
-| Lab 8           | Week 8    |
-| Lab 9           | Week 9    |
-| Lab 10          | Week 10   |
+| Lab Submissions | Due dates                         |
+| --------------- | --------------------------------- |
+| Lab 1           | Week 1 - Beginning 20th July      |
+| Lab 2           | Week 2 - Beginning 27th July      |
+| Lab 3           | Week 3 - Beginning 3rd August     |
+| Lab 4           | Week 4 - Beginning 10th August    |
+| Lab 5           | Week 5 - Beginning 17th August    |
+| Lab 6           | Week 6 - Beginning 31st August    |
+| Lab 7           | Week 7 - Beginning 7th September  |
+| Lab 8           | Week 8 - Beginning 14th September |
+| Lab 9           | Week 9 - Beginning 21st September |
+| Lab 10          | Week 10 - Beginning 12th October  |
+| Lab 11          | Week 11 - Beginning 19th October  |
+| Lab 12          | Week 12 - Beginning 26th October  |
 
 ---
 
