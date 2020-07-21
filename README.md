@@ -4,13 +4,15 @@ The aim of this course is to study the basic structure of the internet and look 
 
 [Course Outline](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1611907/mod_resource/content/3/Web503.pdf)
 
+[Moodle Page](https://ecampus.nmit.ac.nz/moodle/course/view.php?id=11742)
+
 ---
 
 ### Assessment One - Labs
 
 Assessment is worth 25% of the whole course, 5 marks per lab. Each lab exercise worked on in the lab is due at the end of the week.
 
-Each week a labs submission will be due at the following times:
+Each week a labs submission will be due on the following weeks:
 
 | Lab Submissions | Due dates |
 | --------------- | --------- |
@@ -31,11 +33,11 @@ Each week a labs submission will be due at the following times:
 
 Assessment is worth 25%. You are required to build a static website using a given generator by the tutor. More details will be provided in the assessment two handout. 
 
-**Assessment 2 Due: **21st September
+**Assessment 2 Due:** 21st September
 
 ---
 
-### Assessment Three
+### Assessment Three - Build a Website
 
 Assessment is worth 50% of the whole course. Involves building a website as described in class, processes are broken up into 3 sections.
 
