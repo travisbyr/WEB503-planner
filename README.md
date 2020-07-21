@@ -1,4 +1,4 @@
-## WEB503 - Internet Design Principles 
+## WEB503 - Internet Design Principles
 
 The aim of this course is to study the basic structure of the internet and look at how the World Wide Web and other internet based systems operate. You will learn the principles of web design and put these into practice developing a simple web site.
 
@@ -33,7 +33,7 @@ Each week a labs submission will be due on the following weeks:
 
 ### Assessment Two - Portfolio Web App
 
-Assessment is worth 25%. You are required to build a static website using a given generator by the tutor. More details will be provided in the assessment two handout. 
+Assessment is worth 25%. You are required to build a static website using a given generator by the tutor. More details will be provided in the assessment two handout.
 
 **Assessment 2 Due:** 21st September
 
@@ -46,5 +46,3 @@ Assessment is worth 50% of the whole course. Involves building a website as desc
 **Assessment 3 Due:** 16th November
 
 ---
-
-
