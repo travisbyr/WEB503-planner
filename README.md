@@ -4,6 +4,8 @@ The aim of this course is to study the basic structure of the internet and look 
 
 [Course Outline](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1611907/mod_resource/content/3/Web503.pdf)
 
+---
+
 ### Assessment One - Labs
 
 Each week a labs submission will be due at the following times:
