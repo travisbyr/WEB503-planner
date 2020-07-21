@@ -1,12 +1,28 @@
-## Welcome to GitHub Pages
+## WEB503 - Internet Design Principles 
 
-You can use the [editor on GitHub](https://github.com/travisbyr/travisbyr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The aim of this course is to study the basic structure of the internet and look at how the World Wide Web and other internet based systems operate. You will learn the principles of web design and put these into practice developing a simple web site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Assessment 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+### Assessment 1
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+### Assessment 1
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+### Timetable 
+
+
 
 ```markdown
 Syntax highlighted code block
