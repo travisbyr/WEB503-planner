@@ -21,23 +21,21 @@ Each week a labs submission will be due at the following times:
 | Lab 9           | Week 9    |
 | Lab 10          | Week 10   |
 
-
+---
 
 ### Assessment Two
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
+---
 
 ### Assessment Three
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
+---
 
 ### Timetable 
-
-
 
 ```markdown
 Syntax highlighted code block
@@ -56,6 +54,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+---
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
