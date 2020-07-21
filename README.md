@@ -2,19 +2,34 @@
 
 The aim of this course is to study the basic structure of the internet and look at how the World Wide Web and other internet based systems operate. You will learn the principles of web design and put these into practice developing a simple web site.
 
-### Assessment 1
+[Course Outline](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1611907/mod_resource/content/3/Web503.pdf)
+
+### Assessment One - Labs
+
+Each week a labs submission will be due at the following times:
+
+| Lab Submissions | Due dates |
+| --------------- | --------- |
+| Lab 1           | Week 1    |
+| Lab 2           | Week 2    |
+| Lab 3           | Week 3    |
+| Lab 4           | Week 4    |
+| Lab 5           | Week 5    |
+| Lab 6           | Week 6    |
+| Lab 7           | Week 7    |
+| Lab 8           | Week 8    |
+| Lab 9           | Week 9    |
+| Lab 10          | Week 10   |
+
+
+
+### Assessment Two
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 
-### Assessment 1
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
-### Assessment 1
+### Assessment Three
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
